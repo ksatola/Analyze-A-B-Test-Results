@@ -19,4 +19,4 @@ There was no sufficient evidence found to suggest that the new page converts bet
 - Jupyter Notebook
 
 ## Details
-[Analyze A/B Test Results](https://github.com/ksatola/DAN-Project-01/blob/master/Analyze_ab_test_results_notebook_final.ipynb) notebook
+[Analyze A/B Test Results](https://github.com/ksatola/Analyze-A-B-Test-Results/blob/master/Analyze_ab_test_results_notebook_final.ipynb) notebook
